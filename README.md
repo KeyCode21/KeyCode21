@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KeyCode21
-- 👀 I’m interested in ...
+- 👀 Estoy interasado en aprender sin fronteras
 - 🌱 Tecnologias que manejo PHP | SQL | HTML | CSS | BOOTSTRAP | C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Quisiera algun dia tener mi propia academia para programadores
 - 📫 How to reach me ...
 
 <!---
